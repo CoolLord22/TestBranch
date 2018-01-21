@@ -1,0 +1,17 @@
+/*/nbproject/private/
+/*/build/
+/release/
+/dist/
+*/dist/
+*/lib/
+*.jar
+/*/test/
+lib/
+
+# Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+/AsyncWorldEdit-ActionBarAPI/AsyncWorldEdit-ActionBarAPI/nbproject/private/
+/AsyncWorldEdit/src/*.jar
